@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/vladislav-tarasov.github.io/test-constructor/static/js/main.129f6449.js",
-    "static/media/4.png": "/vladislav-tarasov.github.io/test-constructor/static/media/4.1ed7a623bcbbfec3c611.png",
-    "static/media/2.png": "/vladislav-tarasov.github.io/test-constructor/static/media/2.35729ee6b075f8b13d80.png",
-    "static/media/3.png": "/vladislav-tarasov.github.io/test-constructor/static/media/3.093c534be72af616c4be.png",
-    "static/media/1.png": "/vladislav-tarasov.github.io/test-constructor/static/media/1.ea67b00f24eb31649608.png",
-    "static/media/6.png": "/vladislav-tarasov.github.io/test-constructor/static/media/6.1bf023cfcfbcc422089a.png",
-    "static/media/5.png": "/vladislav-tarasov.github.io/test-constructor/static/media/5.a78fc5ba2da3da4af930.png",
-    "index.html": "/vladislav-tarasov.github.io/test-constructor/index.html",
-    "main.129f6449.js.map": "/vladislav-tarasov.github.io/test-constructor/static/js/main.129f6449.js.map"
+    "main.js": "/test-constructor/static/js/main.1446766f.js",
+    "static/media/4.png": "/test-constructor/static/media/4.1ed7a623bcbbfec3c611.png",
+    "static/media/2.png": "/test-constructor/static/media/2.35729ee6b075f8b13d80.png",
+    "static/media/3.png": "/test-constructor/static/media/3.093c534be72af616c4be.png",
+    "static/media/1.png": "/test-constructor/static/media/1.ea67b00f24eb31649608.png",
+    "static/media/6.png": "/test-constructor/static/media/6.1bf023cfcfbcc422089a.png",
+    "static/media/5.png": "/test-constructor/static/media/5.a78fc5ba2da3da4af930.png",
+    "index.html": "/test-constructor/index.html",
+    "main.1446766f.js.map": "/test-constructor/static/js/main.1446766f.js.map"
   },
   "entrypoints": [
-    "static/js/main.129f6449.js"
+    "static/js/main.1446766f.js"
   ]
 }
